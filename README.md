@@ -1,0 +1,1 @@
+ここにviduのassetsが入る
